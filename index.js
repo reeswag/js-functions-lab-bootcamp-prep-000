@@ -1,4 +1,4 @@
-// write your code below!
+// problem no 1
 function happyHolidays() {
   return "Happy holidays!"
 }
@@ -9,3 +9,9 @@ function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
 console.log(happyHolidaysTo("Greg"))
+
+// problem no 3
+function happyHolidayTo(holiday,name) {
+  return `Happy ${holiday}, ${name}!`
+}
+console.log(happyHolidayTo("Christmas","Greg"))
