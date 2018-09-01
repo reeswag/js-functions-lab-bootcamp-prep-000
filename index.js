@@ -8,4 +8,4 @@ console.log(happyHolidays())
 function happyHolidaysTo(name) {
   'return "Happy holidays, ${name}!"'
 }
-console.log(happyHolidayTo('Greg'))
+console.log(happyHolidaysTo('Greg'))
